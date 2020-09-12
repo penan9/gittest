@@ -1,0 +1,22 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000g\u0000i\u0000t\u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000g\u0000i\u0000t\u0000 \u0000s\u0000t\u0000a\u0000t\u0000u\u0000s\u0000\r\u0000 \u0000g\u0000i\u0000t\u0000 \u0000b\u0000r\u0000a\u0000n\u0000c\u0000h\u0000\r\u0000 \u0000g\u0000i\u0000t\u0000 \u0000s\u0000w\u0000i\u0000t\u0000c\u0000h\u0000 \u0000-\u0000c\u0000 \u0000n\u0000e\u0000w\u0000B\u0000r\u0000a\u0000n\u0000c\u0000h\u00001\u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penan9/gittest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penan9/gittest/issues"
+  },
+  "homepage": "https://github.com/penan9/gittest#readme",
+  "devDependencies": {
+    "nightwatch": "^1.4.2"
+  }
+}
